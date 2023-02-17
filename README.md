@@ -2,7 +2,7 @@
 Aulas Prof. Eliane
 <html>
   <head>
-    <title><b>Internet 4A</title></b>
+    <title>Internet 4A</title>
     
     
   </head>
